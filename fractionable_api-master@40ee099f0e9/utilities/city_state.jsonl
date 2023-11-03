@@ -1,0 +1,2273 @@
+{"label": "STATE", "pattern": [{"LOWER": "florida"}]}
+{"label": "STATE", "pattern": [{"LOWER": "oklahoma"}]}
+{"label": "STATE", "pattern": [{"LOWER": "andhra pradesh"}]}
+{"label": "STATE", "pattern": [{"LOWER": "north dakota"}]}
+{"label": "STATE", "pattern": [{"LOWER": "utah"}]}
+{"label": "STATE", "pattern": [{"LOWER": "punjab"}]}
+{"label": "STATE", "pattern": [{"LOWER": "iowa"}]}
+{"label": "STATE", "pattern": [{"LOWER": "new mexico"}]}
+{"label": "STATE", "pattern": [{"LOWER": "new hampshire"}]}
+{"label": "STATE", "pattern": [{"LOWER": "south dakota"}]}
+{"label": "STATE", "pattern": [{"LOWER": "assam"}]}
+{"label": "STATE", "pattern": [{"LOWER": "pennsylvania"}]}
+{"label": "STATE", "pattern": [{"LOWER": "mizoram"}]}
+{"label": "STATE", "pattern": [{"LOWER": "sikkim"}]}
+{"label": "STATE", "pattern": [{"LOWER": "dadra and nagar haveli and daman and diu"}]}
+{"label": "STATE", "pattern": [{"LOWER": "himachal pradesh"}]}
+{"label": "STATE", "pattern": [{"LOWER": "wisconsin"}]}
+{"label": "STATE", "pattern": [{"LOWER": "manipur"}]}
+{"label": "STATE", "pattern": [{"LOWER": "jharkhand"}]}
+{"label": "STATE", "pattern": [{"LOWER": "goa"}]}
+{"label": "STATE", "pattern": [{"LOWER": "andaman and nicobar islands"}]}
+{"label": "STATE", "pattern": [{"LOWER": "tamil nadu"}]}
+{"label": "STATE", "pattern": [{"LOWER": "west virginia"}]}
+{"label": "STATE", "pattern": [{"LOWER": "minnesota"}]}
+{"label": "STATE", "pattern": [{"LOWER": "ladakh"}]}
+{"label": "STATE", "pattern": [{"LOWER": "chandigarh"}]}
+{"label": "STATE", "pattern": [{"LOWER": "nagaland"}]}
+{"label": "STATE", "pattern": [{"LOWER": "alabama"}]}
+{"label": "STATE", "pattern": [{"LOWER": "nevada"}]}
+{"label": "STATE", "pattern": [{"LOWER": "georgia"}]}
+{"label": "STATE", "pattern": [{"LOWER": "new jersey"}]}
+{"label": "STATE", "pattern": [{"LOWER": "oregon"}]}
+{"label": "STATE", "pattern": [{"LOWER": "ohio"}]}
+{"label": "STATE", "pattern": [{"LOWER": "illinois"}]}
+{"label": "STATE", "pattern": [{"LOWER": "vermont"}]}
+{"label": "STATE", "pattern": [{"LOWER": "alaska"}]}
+{"label": "STATE", "pattern": [{"LOWER": "montana"}]}
+{"label": "STATE", "pattern": [{"LOWER": "karnataka"}]}
+{"label": "STATE", "pattern": [{"LOWER": "rajasthan"}]}
+{"label": "STATE", "pattern": [{"LOWER": "arkansas"}]}
+{"label": "STATE", "pattern": [{"LOWER": "telangana"}]}
+{"label": "STATE", "pattern": [{"LOWER": "madhya pradesh"}]}
+{"label": "STATE", "pattern": [{"LOWER": "gujarat"}]}
+{"label": "STATE", "pattern": [{"LOWER": "missouri"}]}
+{"label": "STATE", "pattern": [{"LOWER": "connecticut"}]}
+{"label": "STATE", "pattern": [{"LOWER": "wyoming"}]}
+{"label": "STATE", "pattern": [{"LOWER": "washington"}]}
+{"label": "STATE", "pattern": [{"LOWER": "arunachal pradesh"}]}
+{"label": "STATE", "pattern": [{"LOWER": "louisiana"}]}
+{"label": "STATE", "pattern": [{"LOWER": "south carolina"}]}
+{"label": "STATE", "pattern": [{"LOWER": "delaware"}]}
+{"label": "STATE", "pattern": [{"LOWER": "california"}]}
+{"label": "STATE", "pattern": [{"LOWER": "kerala"}]}
+{"label": "STATE", "pattern": [{"LOWER": "rhode island"}]}
+{"label": "STATE", "pattern": [{"LOWER": "bihar"}]}
+{"label": "STATE", "pattern": [{"LOWER": "uttarakhand"}]}
+{"label": "STATE", "pattern": [{"LOWER": "arizona"}]}
+{"label": "STATE", "pattern": [{"LOWER": "uttar pradesh"}]}
+{"label": "STATE", "pattern": [{"LOWER": "virginia"}]}
+{"label": "STATE", "pattern": [{"LOWER": "maryland"}]}
+{"label": "STATE", "pattern": [{"LOWER": "north carolina"}]}
+{"label": "STATE", "pattern": [{"LOWER": "michigan"}]}
+{"label": "STATE", "pattern": [{"LOWER": "tripura"}]}
+{"label": "STATE", "pattern": [{"LOWER": "massachusetts"}]}
+{"label": "STATE", "pattern": [{"LOWER": "mississippi"}]}
+{"label": "STATE", "pattern": [{"LOWER": "maharashtra"}]}
+{"label": "STATE", "pattern": [{"LOWER": "delhi"}]}
+{"label": "STATE", "pattern": [{"LOWER": "kentucky"}]}
+{"label": "STATE", "pattern": [{"LOWER": "idaho"}]}
+{"label": "STATE", "pattern": [{"LOWER": "colorado"}]}
+{"label": "STATE", "pattern": [{"LOWER": "puducherry"}]}
+{"label": "STATE", "pattern": [{"LOWER": "kansas"}]}
+{"label": "STATE", "pattern": [{"LOWER": "nebraska"}]}
+{"label": "STATE", "pattern": [{"LOWER": "odisha"}]}
+{"label": "STATE", "pattern": [{"LOWER": "jammu and kashmir"}]}
+{"label": "STATE", "pattern": [{"LOWER": "west bengal"}]}
+{"label": "STATE", "pattern": [{"LOWER": "haryana"}]}
+{"label": "STATE", "pattern": [{"LOWER": "indiana"}]}
+{"label": "STATE", "pattern": [{"LOWER": "hawaii"}]}
+{"label": "STATE", "pattern": [{"LOWER": "meghalaya"}]}
+{"label": "STATE", "pattern": [{"LOWER": "chhattisgarh"}]}
+{"label": "STATE", "pattern": [{"LOWER": "new york"}]}
+{"label": "STATE", "pattern": [{"LOWER": "maine"}]}
+{"label": "STATE", "pattern": [{"LOWER": "texas"}]}
+{"label": "STATE", "pattern": [{"LOWER": "tennessee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hopewell"}]}
+{"label": "CITY", "pattern": [{"LOWER": "el reno"}]}
+{"label": "CITY", "pattern": [{"LOWER": "laguna beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lakewood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oyster bay"}]}
+{"label": "CITY", "pattern": [{"LOWER": "guwahati"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rockland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "randolph"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new york city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sandusky"}]}
+{"label": "CITY", "pattern": [{"LOWER": "appleton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dowlaiswaram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west plains"}]}
+{"label": "CITY", "pattern": [{"LOWER": "batala"}]}
+{"label": "CITY", "pattern": [{"LOWER": "deadwood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "morristown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "asbury park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "belagavi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "belen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "udhampur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gulfport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bareilly"}]}
+{"label": "CITY", "pattern": [{"LOWER": "granite city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "prescott"}]}
+{"label": "CITY", "pattern": [{"LOWER": "davenport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "keokuk"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sylacauga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "arlington heights"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west bridgewater"}]}
+{"label": "CITY", "pattern": [{"LOWER": "raleigh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dhenkanal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "malda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "covington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grants"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baranagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yonkers"}]}
+{"label": "CITY", "pattern": [{"LOWER": "omaha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "calexico"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ripon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rexburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hollywood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chautauqua"}]}
+{"label": "CITY", "pattern": [{"LOWER": "arlington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mountain view"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bound brook"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baker city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ames"}]}
+{"label": "CITY", "pattern": [{"LOWER": "medicine lodge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tirupati"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chula vista"}]}
+{"label": "CITY", "pattern": [{"LOWER": "provincetown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "paducah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tuscumbia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tempe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bourne"}]}
+{"label": "CITY", "pattern": [{"LOWER": "needles"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palm springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yellow springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fairbanks"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tyler"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saraikela"}]}
+{"label": "CITY", "pattern": [{"LOWER": "watts"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lorain"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hickory"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new ulm"}]}
+{"label": "CITY", "pattern": [{"LOWER": "put-in-bay"}]}
+{"label": "CITY", "pattern": [{"LOWER": "andalusia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west orange"}]}
+{"label": "CITY", "pattern": [{"LOWER": "khandwa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "massillon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint ignace"}]}
+{"label": "CITY", "pattern": [{"LOWER": "diu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wokha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "charlottesville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "walnut creek"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kanniyakumari"}]}
+{"label": "CITY", "pattern": [{"LOWER": "aizawl"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hobart"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tillamook"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lake charles"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brookline"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brighton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rajkot"}]}
+{"label": "CITY", "pattern": [{"LOWER": "agartala"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chattanooga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kottayam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "scarsdale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rugby"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oneida"}]}
+{"label": "CITY", "pattern": [{"LOWER": "prayagraj"}]}
+{"label": "CITY", "pattern": [{"LOWER": "champaign"}]}
+{"label": "CITY", "pattern": [{"LOWER": "battle creek"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harlem"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new brunswick"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sebring"}]}
+{"label": "CITY", "pattern": [{"LOWER": "maryville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sudbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "osmanabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "akola"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dr. ambedkar nagar (mhow)"}]}
+{"label": "CITY", "pattern": [{"LOWER": "calhoun"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nome"}]}
+{"label": "CITY", "pattern": [{"LOWER": "missoula"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port gibson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "scottsboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "la crosse"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grinnell"}]}
+{"label": "CITY", "pattern": [{"LOWER": "indore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sangareddi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chandernagore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "las cruces"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hoshiarpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "galveston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grants pass"}]}
+{"label": "CITY", "pattern": [{"LOWER": "providence"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tirunelveli"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barmer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tamluk"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fitzgerald"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wardha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "solapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "muncie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shelton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "frankfort"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sioux city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "green bay"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eastham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rockville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "presque isle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lachung"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lewistown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waycross"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dhanbad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "marlborough"}]}
+{"label": "CITY", "pattern": [{"LOWER": "glendive"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grayling"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lancaster"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kahului"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rhinelander"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lenox"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nagappattinam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "salt lake city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "keene"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stillwater"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint paul"}]}
+{"label": "CITY", "pattern": [{"LOWER": "darjeeling"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cleveland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stroudsburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "levittown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "york"}]}
+{"label": "CITY", "pattern": [{"LOWER": "haora"}]}
+{"label": "CITY", "pattern": [{"LOWER": "de land"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pandharpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "caldwell"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beaumont"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pushkar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "midland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "worland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "honesdale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "the village"}]}
+{"label": "CITY", "pattern": [{"LOWER": "abbeville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kewanee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jaisalmer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hyannis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "devils lake"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hilo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhatpara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "denison"}]}
+{"label": "CITY", "pattern": [{"LOWER": "katihar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palatine"}]}
+{"label": "CITY", "pattern": [{"LOWER": "altoona"}]}
+{"label": "CITY", "pattern": [{"LOWER": "whittier"}]}
+{"label": "CITY", "pattern": [{"LOWER": "midwest city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "branford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "longmont"}]}
+{"label": "CITY", "pattern": [{"LOWER": "raiganj"}]}
+{"label": "CITY", "pattern": [{"LOWER": "miami beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jonesborough"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gettysburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west springfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oak harbor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alamosa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hibbing"}]}
+{"label": "CITY", "pattern": [{"LOWER": "edison"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ellsworth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cedar falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "meridian"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fairfax"}]}
+{"label": "CITY", "pattern": [{"LOWER": "firozpur jhirka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "enid"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coventry"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vasai-virar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bonners ferry"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tooele"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ahmadnagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bara banki"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anacortes"}]}
+{"label": "CITY", "pattern": [{"LOWER": "borger"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pendleton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ketchikan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "silvassa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brockton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oxford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhuj"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bharuch"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winona"}]}
+{"label": "CITY", "pattern": [{"LOWER": "prineville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "phoenixville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winooski"}]}
+{"label": "CITY", "pattern": [{"LOWER": "glenwood springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pottstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "delta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ogden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "atchison"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bloomsburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kinston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "council grove"}]}
+{"label": "CITY", "pattern": [{"LOWER": "menominee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "augusta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "westerly"}]}
+{"label": "CITY", "pattern": [{"LOWER": "asheville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "birmingham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "aiken"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lufkin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "riverside"}]}
+{"label": "CITY", "pattern": [{"LOWER": "evansville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nagaon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "indianapolis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gloversville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jaipur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "talladega"}]}
+{"label": "CITY", "pattern": [{"LOWER": "searcy"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oneonta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint albans"}]}
+{"label": "CITY", "pattern": [{"LOWER": "middlesboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kilgore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oak park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "deming"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhiwani"}]}
+{"label": "CITY", "pattern": [{"LOWER": "corvallis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "litchfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thousand oaks"}]}
+{"label": "CITY", "pattern": [{"LOWER": "el dorado"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dodge city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "middlebury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dickinson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "council bluffs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "myrtle beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ajmer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "swarthmore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kotzebue"}]}
+{"label": "CITY", "pattern": [{"LOWER": "charleston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mishawaka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dhule"}]}
+{"label": "CITY", "pattern": [{"LOWER": "salisbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newburgh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "albert lea"}]}
+{"label": "CITY", "pattern": [{"LOWER": "parma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "raichur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stony brook"}]}
+{"label": "CITY", "pattern": [{"LOWER": "florence"}]}
+{"label": "CITY", "pattern": [{"LOWER": "selma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new milford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "longview"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bloomfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "carbondale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "puyallup"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bismarck"}]}
+{"label": "CITY", "pattern": [{"LOWER": "scarborough"}]}
+{"label": "CITY", "pattern": [{"LOWER": "little rock"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amsterdam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "watkins glen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "raisen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "krishnanagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boulder"}]}
+{"label": "CITY", "pattern": [{"LOWER": "konark"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hyde park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "willimantic"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saginaw"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mcminnville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nizamabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint marys city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ada"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gloucester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yazoo city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "siwan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sarasota"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint johnsbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chillicothe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pine bluff"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sturgeon bay"}]}
+{"label": "CITY", "pattern": [{"LOWER": "holly springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pensacola"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bluefield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anantapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "moscow"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sauk centre"}]}
+{"label": "CITY", "pattern": [{"LOWER": "castine"}]}
+{"label": "CITY", "pattern": [{"LOWER": "point pleasant"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oraibi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rutherford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hammond"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kenosha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "steubenville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kheda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "passaic"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cocoa beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pinehurst"}]}
+{"label": "CITY", "pattern": [{"LOWER": "modesto"}]}
+{"label": "CITY", "pattern": [{"LOWER": "venice"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port blair"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palo alto"}]}
+{"label": "CITY", "pattern": [{"LOWER": "falls church"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dumka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sangli"}]}
+{"label": "CITY", "pattern": [{"LOWER": "derry"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bloomfield hills"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boise"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lakeland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "uniontown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wickford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lincoln"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vineland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bid"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bay city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "glens falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "moorhead"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rewa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sirohi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kawaihae"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anantnag"}]}
+{"label": "CITY", "pattern": [{"LOWER": "orange"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jacksonville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "iron mountain"}]}
+{"label": "CITY", "pattern": [{"LOWER": "casper"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dharmshala"}]}
+{"label": "CITY", "pattern": [{"LOWER": "opelousas"}]}
+{"label": "CITY", "pattern": [{"LOWER": "reno"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pierre"}]}
+{"label": "CITY", "pattern": [{"LOWER": "spokane"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tulsa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nowgong"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fallon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brainerd"}]}
+{"label": "CITY", "pattern": [{"LOWER": "state college"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san diego"}]}
+{"label": "CITY", "pattern": [{"LOWER": "juneau"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harlingen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "titagarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "el centro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kingsport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "balurghat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "montrose"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dahlonega"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stony point"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vermillion"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cuddalore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jamshedpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bath"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north chicago"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bowling green"}]}
+{"label": "CITY", "pattern": [{"LOWER": "asheboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beloit"}]}
+{"label": "CITY", "pattern": [{"LOWER": "south hadley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sheopur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "klamath falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ratlam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "international falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "seneca falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port orford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fond du lac"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bemidji"}]}
+{"label": "CITY", "pattern": [{"LOWER": "etah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east hampton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nanded"}]}
+{"label": "CITY", "pattern": [{"LOWER": "scottsdale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wooster"}]}
+{"label": "CITY", "pattern": [{"LOWER": "valley city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jamestown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "norristown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhubaneshwar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wisconsin dells"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort kent"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mcalester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa monica"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hackensack"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bartlesville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mandsaur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new haven"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chelsea"}]}
+{"label": "CITY", "pattern": [{"LOWER": "peshtigo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhojpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "richland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "betul"}]}
+{"label": "CITY", "pattern": [{"LOWER": "adoni"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oconto"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chico"}]}
+{"label": "CITY", "pattern": [{"LOWER": "college station"}]}
+{"label": "CITY", "pattern": [{"LOWER": "laurel"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lowell"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clarksville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "escondido"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vizianagaram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san simeon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anadarko"}]}
+{"label": "CITY", "pattern": [{"LOWER": "westminster"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north college hill"}]}
+{"label": "CITY", "pattern": [{"LOWER": "keyser"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dhuburi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort worth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "irving"}]}
+{"label": "CITY", "pattern": [{"LOWER": "etawah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jonesboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rantoul"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pasadena"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bordentown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lakhimpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "enterprise"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amarillo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nashik"}]}
+{"label": "CITY", "pattern": [{"LOWER": "novato"}]}
+{"label": "CITY", "pattern": [{"LOWER": "provo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beverly"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dover"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chamba"}]}
+{"label": "CITY", "pattern": [{"LOWER": "magnolia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "glassboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bodh gaya"}]}
+{"label": "CITY", "pattern": [{"LOWER": "takoma park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sheridan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tarrytown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brea"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palmer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "blairsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fredericksburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vijayawada"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ardmore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mount pleasant"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hodgenville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tinsukia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "arkadelphia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "seaside"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tewksbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shrirangapattana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gangtok"}]}
+{"label": "CITY", "pattern": [{"LOWER": "simsbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "willmar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hyderabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mission"}]}
+{"label": "CITY", "pattern": [{"LOWER": "conway"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mahe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "prairie du chien"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hardoi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winston-salem"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san felipe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beacon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rye"}]}
+{"label": "CITY", "pattern": [{"LOWER": "guntur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sultanpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san fernando"}]}
+{"label": "CITY", "pattern": [{"LOWER": "troy"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lake city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dharmapuri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "revere"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cushing"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yankton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "long beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "carlsbad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west palm beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cookeville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sevagram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amana colonies"}]}
+{"label": "CITY", "pattern": [{"LOWER": "moses lake"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sand springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "westport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anniston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lubec"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shepherdstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "guna"}]}
+{"label": "CITY", "pattern": [{"LOWER": "branson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oceanside"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oil city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gadsden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "havre"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bangor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kirksville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "walpi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boca raton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "golden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shahpura"}]}
+{"label": "CITY", "pattern": [{"LOWER": "crookston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "crystal city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vernal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wilmette"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kanchrapara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "perth amboy"}]}
+{"label": "CITY", "pattern": [{"LOWER": "potsdam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pekin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oskaloosa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lewiston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kochi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kodaikanal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "burlington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "khammam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "minden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ramanathapuram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "syracuse"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jhabua"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gurugram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "salem"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gila bend"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pittsburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baripada"}]}
+{"label": "CITY", "pattern": [{"LOWER": "auburn"}]}
+{"label": "CITY", "pattern": [{"LOWER": "royal oak"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san mateo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pocatello"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ephrata"}]}
+{"label": "CITY", "pattern": [{"LOWER": "livingston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oxnard"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dekalb"}]}
+{"label": "CITY", "pattern": [{"LOWER": "westminste"}]}
+{"label": "CITY", "pattern": [{"LOWER": "geneva"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north adams"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rajahmundry"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hajipur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vatakara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shivpuri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "suffolk"}]}
+{"label": "CITY", "pattern": [{"LOWER": "traverse city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cranford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "leadville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "menlo park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "escanaba"}]}
+{"label": "CITY", "pattern": [{"LOWER": "prichard"}]}
+{"label": "CITY", "pattern": [{"LOWER": "milledgeville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dearborn"}]}
+{"label": "CITY", "pattern": [{"LOWER": "staunton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saranac lake"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ruston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gretna"}]}
+{"label": "CITY", "pattern": [{"LOWER": "overland park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lake forest"}]}
+{"label": "CITY", "pattern": [{"LOWER": "artesia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chicago heights"}]}
+{"label": "CITY", "pattern": [{"LOWER": "junagadh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hubballi-dharwad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "monroe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barstow"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rensselaer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thermopolis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "taunton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beatrice"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ironwood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cedar city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gurdaspur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "buffalo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chidambaram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "walsenburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jalandhar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mansfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gonda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hazard"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alappuzha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shawneetown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kennebunkport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grafton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bronx"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coos bay"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jhunjhunu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hyattsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tombstone"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clifton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bayonne"}]}
+{"label": "CITY", "pattern": [{"LOWER": "laconia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rolla"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dalton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "great bend"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brahmapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "seoni"}]}
+{"label": "CITY", "pattern": [{"LOWER": "karli"}]}
+{"label": "CITY", "pattern": [{"LOWER": "davangere"}]}
+{"label": "CITY", "pattern": [{"LOWER": "red wing"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhandara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wilmington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "biddeford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhagalpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pali"}]}
+{"label": "CITY", "pattern": [{"LOWER": "huntsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhilai"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hamirpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "woodstock"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mount holly"}]}
+{"label": "CITY", "pattern": [{"LOWER": "apalachicola"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ulhasnagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kelso"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bishnupur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "socorro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san leandro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alliance"}]}
+{"label": "CITY", "pattern": [{"LOWER": "detroit"}]}
+{"label": "CITY", "pattern": [{"LOWER": "johnstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "murshidabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bisbee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "laramie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gallup"}]}
+{"label": "CITY", "pattern": [{"LOWER": "daman"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newark"}]}
+{"label": "CITY", "pattern": [{"LOWER": "river forest"}]}
+{"label": "CITY", "pattern": [{"LOWER": "siuri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "marblehead"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sarangpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coupeville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rancho cucamonga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "akron"}]}
+{"label": "CITY", "pattern": [{"LOWER": "meerut"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chadron"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rajnandgaon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hayward"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fredonia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chittaurgarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mexico"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palm bay"}]}
+{"label": "CITY", "pattern": [{"LOWER": "el monte"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ticonderoga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harwich"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lahaina"}]}
+{"label": "CITY", "pattern": [{"LOWER": "daulatabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alipore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hazaribag"}]}
+{"label": "CITY", "pattern": [{"LOWER": "somerville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hoboken"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hopkinsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "antioch"}]}
+{"label": "CITY", "pattern": [{"LOWER": "marquette"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lumberton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sterling"}]}
+{"label": "CITY", "pattern": [{"LOWER": "moradabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alamogordo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wahiawa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rutland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "monett"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west haven"}]}
+{"label": "CITY", "pattern": [{"LOWER": "machilipatnam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "idaho falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lexington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bowie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mamaroneck"}]}
+{"label": "CITY", "pattern": [{"LOWER": "delhi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waynesboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "simi valley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brookfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "queens"}]}
+{"label": "CITY", "pattern": [{"LOWER": "merta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "meadville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "centralia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east providence"}]}
+{"label": "CITY", "pattern": [{"LOWER": "houston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "abington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lewes"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palanpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "texarkana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "deoria"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sonoma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rock hill"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pawhuska"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lima"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new philadelphia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sharon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lodi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "collinsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "visalia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "okha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elgin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jamalpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yorba linda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "binghamton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bartow"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint cloud"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort payne"}]}
+{"label": "CITY", "pattern": [{"LOWER": "petersburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sherman"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tuscaloosa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "watervliet"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort smith"}]}
+{"label": "CITY", "pattern": [{"LOWER": "janesville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bettiah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "starkville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oswego"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grand forks"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rupnagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "charlestown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "aurangabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sanford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "buldhana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "murfreesboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hanalei"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west allis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "key west"}]}
+{"label": "CITY", "pattern": [{"LOWER": "marietta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bloomington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "willingboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "melbourne"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mandya"}]}
+{"label": "CITY", "pattern": [{"LOWER": "americus"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pecos"}]}
+{"label": "CITY", "pattern": [{"LOWER": "annapolis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lucknow"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mainpuri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nauvoo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vincennes"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rajmahal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "morehead city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cicero"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dubuque"}]}
+{"label": "CITY", "pattern": [{"LOWER": "germantown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "homer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "campbellsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "richardson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "powell"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rampur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jim thorpe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cherokee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waterbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "montgomery"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pomona"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west point"}]}
+{"label": "CITY", "pattern": [{"LOWER": "churu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "itanagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "halebid"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bethany"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nyack"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pass christian"}]}
+{"label": "CITY", "pattern": [{"LOWER": "daytona beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dinapur nizamat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "abingdon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "watertown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "texas city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "valdosta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wilson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "asansol"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tarpon springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cortez"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pittsfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "los alamos"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east point"}]}
+{"label": "CITY", "pattern": [{"LOWER": "park city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "basti"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lompoc"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boonesborough"}]}
+{"label": "CITY", "pattern": [{"LOWER": "caribou"}]}
+{"label": "CITY", "pattern": [{"LOWER": "great neck"}]}
+{"label": "CITY", "pattern": [{"LOWER": "edinburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "carrollton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "neenah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mobridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "osawatomie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cambridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north las vegas"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chambersburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fontana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "delaware"}]}
+{"label": "CITY", "pattern": [{"LOWER": "almora"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hathras"}]}
+{"label": "CITY", "pattern": [{"LOWER": "patna"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wabash"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort valley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "topeka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cadillac"}]}
+{"label": "CITY", "pattern": [{"LOWER": "interlochen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "macon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "arkansas post"}]}
+{"label": "CITY", "pattern": [{"LOWER": "medford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bradford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anaheim"}]}
+{"label": "CITY", "pattern": [{"LOWER": "marion"}]}
+{"label": "CITY", "pattern": [{"LOWER": "satna"}]}
+{"label": "CITY", "pattern": [{"LOWER": "andersonville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "peru"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ventura"}]}
+{"label": "CITY", "pattern": [{"LOWER": "puducherry"}]}
+{"label": "CITY", "pattern": [{"LOWER": "culver city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lehi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hoquiam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "philippi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jharia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kozhikode"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sitapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "matheran"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tampa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boonville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "south san francisco"}]}
+{"label": "CITY", "pattern": [{"LOWER": "long branch"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wailuku"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dalhousie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fayetteville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "athens"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sapulpa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sun valley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "independence"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kolar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thane"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hays"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bilaspur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "enfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "damoh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ghazipur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "guntersville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "williamstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shreveport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "virginia city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greensboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wellsburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east haven"}]}
+{"label": "CITY", "pattern": [{"LOWER": "laie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ottawa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kingsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "towson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "uvalde"}]}
+{"label": "CITY", "pattern": [{"LOWER": "susanville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ballari"}]}
+{"label": "CITY", "pattern": [{"LOWER": "williston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fremont"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brooklyn"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hillsboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "canon city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "savannah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "zunheboto"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brookings"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ely"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greenville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ballia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "iowa city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "woodland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tacoma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bikaner"}]}
+{"label": "CITY", "pattern": [{"LOWER": "irvine"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ipswich"}]}
+{"label": "CITY", "pattern": [{"LOWER": "karnal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elizabethtown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "morganton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jeannette"}]}
+{"label": "CITY", "pattern": [{"LOWER": "roanoke"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cheyenne"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baleshwar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pontiac"}]}
+{"label": "CITY", "pattern": [{"LOWER": "babylon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "biloxi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "windham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ashland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barwani"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stuttgart"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bijnor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gastonia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "okmulgee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa claus"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sallisaw"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chennai"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lubbock"}]}
+{"label": "CITY", "pattern": [{"LOWER": "toccoa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "summit"}]}
+{"label": "CITY", "pattern": [{"LOWER": "darien"}]}
+{"label": "CITY", "pattern": [{"LOWER": "haines"}]}
+{"label": "CITY", "pattern": [{"LOWER": "falmouth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dhaulpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "martins ferry"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chittoor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harpers ferry"}]}
+{"label": "CITY", "pattern": [{"LOWER": "zanesville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wauwatosa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "norwich"}]}
+{"label": "CITY", "pattern": [{"LOWER": "la grande"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rajouri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bharhut"}]}
+{"label": "CITY", "pattern": [{"LOWER": "south saint paul"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west covina"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wheeling"}]}
+{"label": "CITY", "pattern": [{"LOWER": "emmitsburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grenada"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san pedro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "huron"}]}
+{"label": "CITY", "pattern": [{"LOWER": "van buren"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ishpeming"}]}
+{"label": "CITY", "pattern": [{"LOWER": "point roberts"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alexandria"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mangan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "virden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nainital"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort collins"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pottsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "washington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "billings"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint louis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dartmouth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lake oswego"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elko"}]}
+{"label": "CITY", "pattern": [{"LOWER": "somersworth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "atmore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mirzapur-vindhyachal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new madrid"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort lee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chickasha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jefferson city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jasper"}]}
+{"label": "CITY", "pattern": [{"LOWER": "punch"}]}
+{"label": "CITY", "pattern": [{"LOWER": "salinas"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ridgewood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "roswell"}]}
+{"label": "CITY", "pattern": [{"LOWER": "motihari"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winter haven"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sangrur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jalgaon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "carlisle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sumter"}]}
+{"label": "CITY", "pattern": [{"LOWER": "butte"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dungarpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "compton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "buxar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort wayne"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palayamkottai"}]}
+{"label": "CITY", "pattern": [{"LOWER": "spartanburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nagaur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baharampur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bally"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dhar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rocky mount"}]}
+{"label": "CITY", "pattern": [{"LOWER": "groton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nagarjunako\u1e47\u1e0da"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elizabeth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lackawanna"}]}
+{"label": "CITY", "pattern": [{"LOWER": "canyon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "daly city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "durg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west memphis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "faizabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mayfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "belleville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jackson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new bedford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dehra dun"}]}
+{"label": "CITY", "pattern": [{"LOWER": "great falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grand junction"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bahraich"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dindigul"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fatehpur sikri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "panihati"}]}
+{"label": "CITY", "pattern": [{"LOWER": "spearfish"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ambala"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chandrapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jeffersonville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sedalia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kingman"}]}
+{"label": "CITY", "pattern": [{"LOWER": "catonsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hempstead"}]}
+{"label": "CITY", "pattern": [{"LOWER": "window rock"}]}
+{"label": "CITY", "pattern": [{"LOWER": "whitman"}]}
+{"label": "CITY", "pattern": [{"LOWER": "monticello"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chapra"}]}
+{"label": "CITY", "pattern": [{"LOWER": "portage"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elizabeth city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "morrilton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "reedsport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "titusville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lewisburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "turlock"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palakkad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "red bluff"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sausalito"}]}
+{"label": "CITY", "pattern": [{"LOWER": "french lick"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port washington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fergus falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "blackfoot"}]}
+{"label": "CITY", "pattern": [{"LOWER": "morgan city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "defiance"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ukiah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hartsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oklahoma city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tiffin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hassan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "burhanpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "union"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hagerstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greenwich"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elmira"}]}
+{"label": "CITY", "pattern": [{"LOWER": "the dalles"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tallahassee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tucson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "columbia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vancouver"}]}
+{"label": "CITY", "pattern": [{"LOWER": "olathe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "michigan city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ecorse"}]}
+{"label": "CITY", "pattern": [{"LOWER": "redlands"}]}
+{"label": "CITY", "pattern": [{"LOWER": "holdenville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "carthage"}]}
+{"label": "CITY", "pattern": [{"LOWER": "great barrington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bastrop"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kota"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kingston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "munger"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kankakee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gyalshing"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jagdalpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "puri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lisle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "priest river"}]}
+{"label": "CITY", "pattern": [{"LOWER": "macomb"}]}
+{"label": "CITY", "pattern": [{"LOWER": "huntington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pagosa springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kittery"}]}
+{"label": "CITY", "pattern": [{"LOWER": "aspen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barasat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fillmore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mesquite"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east liverpool"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amroha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "monterey"}]}
+{"label": "CITY", "pattern": [{"LOWER": "monmouth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gainesville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "redmond"}]}
+{"label": "CITY", "pattern": [{"LOWER": "forest hills"}]}
+{"label": "CITY", "pattern": [{"LOWER": "raipur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "liberal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nahant"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sioux falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ontario"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa cruz"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san juan capistrano"}]}
+{"label": "CITY", "pattern": [{"LOWER": "denton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "houlton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hamden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "danville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "attleboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mystic"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mumbai"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "burns"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waukesha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rewari"}]}
+{"label": "CITY", "pattern": [{"LOWER": "marinette"}]}
+{"label": "CITY", "pattern": [{"LOWER": "homestead"}]}
+{"label": "CITY", "pattern": [{"LOWER": "utica"}]}
+{"label": "CITY", "pattern": [{"LOWER": "schenectady"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waterloo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "orderville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vallejo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gunnison"}]}
+{"label": "CITY", "pattern": [{"LOWER": "abilene"}]}
+{"label": "CITY", "pattern": [{"LOWER": "knoxville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "honaunau"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lawton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pithoragarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "xenia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san gabriel"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amritsar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "durango"}]}
+{"label": "CITY", "pattern": [{"LOWER": "terre haute"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baton rouge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "garden city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jabalpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "osceola"}]}
+{"label": "CITY", "pattern": [{"LOWER": "superior"}]}
+{"label": "CITY", "pattern": [{"LOWER": "phek"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jhalawar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palm beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hannibal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "partapgarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "redding"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kalimpong"}]}
+{"label": "CITY", "pattern": [{"LOWER": "telluride"}]}
+{"label": "CITY", "pattern": [{"LOWER": "philadelphia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chicopee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pasco"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amesbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "seminole"}]}
+{"label": "CITY", "pattern": [{"LOWER": "madurai"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winter park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hugo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "heber city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new martinsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint charles"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barrackpore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "neemuch"}]}
+{"label": "CITY", "pattern": [{"LOWER": "staten island"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port huron"}]}
+{"label": "CITY", "pattern": [{"LOWER": "weymouth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palatka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "corinth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "largo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dum dum"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shantiniketan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rome"}]}
+{"label": "CITY", "pattern": [{"LOWER": "quincy"}]}
+{"label": "CITY", "pattern": [{"LOWER": "truro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "naugatuck"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kohima"}]}
+{"label": "CITY", "pattern": [{"LOWER": "avondale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "danvers"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east hartford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chandler"}]}
+{"label": "CITY", "pattern": [{"LOWER": "peekskill"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shaker heights"}]}
+{"label": "CITY", "pattern": [{"LOWER": "decatur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "victorville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tucumcari"}]}
+{"label": "CITY", "pattern": [{"LOWER": "derby"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shravanabelagola"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coimbatore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kaithal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sweetwater"}]}
+{"label": "CITY", "pattern": [{"LOWER": "carson city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shamokin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "veraval"}]}
+{"label": "CITY", "pattern": [{"LOWER": "layton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "red cloud"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cincinnati"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pompano beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eastchester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "des plaines"}]}
+{"label": "CITY", "pattern": [{"LOWER": "morena"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new albany"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baytown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alipur duar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nathdwara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "manitowoc"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bethesda-chevy chase"}]}
+{"label": "CITY", "pattern": [{"LOWER": "warren"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west new york"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kapaa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west hartford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "khambhat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eugene"}]}
+{"label": "CITY", "pattern": [{"LOWER": "balaghat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north little rock"}]}
+{"label": "CITY", "pattern": [{"LOWER": "plano"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ludington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "morbi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "berkeley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alhambra"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gillette"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wyandotte"}]}
+{"label": "CITY", "pattern": [{"LOWER": "trenton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort benton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kokomo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort pierce"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nanticoke"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jamnagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sirsa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "goliad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "charles town"}]}
+{"label": "CITY", "pattern": [{"LOWER": "warner robins"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boone"}]}
+{"label": "CITY", "pattern": [{"LOWER": "natchitoches"}]}
+{"label": "CITY", "pattern": [{"LOWER": "plains"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san marcos"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grosse pointe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new orleans"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sambalpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sawai madhopur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gwalior"}]}
+{"label": "CITY", "pattern": [{"LOWER": "begusarai"}]}
+{"label": "CITY", "pattern": [{"LOWER": "madison"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amreli"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rumford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "helena"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kearney"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chickasaw"}]}
+{"label": "CITY", "pattern": [{"LOWER": "crossett"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ajo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lombard"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saco"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bakersfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cape coral"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waterford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "el cerrito"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greensburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "plainview"}]}
+{"label": "CITY", "pattern": [{"LOWER": "udhagamandalam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "manistee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "moore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ponca city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "twin falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "la junta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "naperville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "canton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gallatin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alpine"}]}
+{"label": "CITY", "pattern": [{"LOWER": "natick"}]}
+{"label": "CITY", "pattern": [{"LOWER": "park ridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "temple"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kathua"}]}
+{"label": "CITY", "pattern": [{"LOWER": "la grange"}]}
+{"label": "CITY", "pattern": [{"LOWER": "plattsmouth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clearwater"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bellevue"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cordova"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san luis obispo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "khajuraho"}]}
+{"label": "CITY", "pattern": [{"LOWER": "evanston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "loveland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "inglewood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wichita"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elyria"}]}
+{"label": "CITY", "pattern": [{"LOWER": "smyrna"}]}
+{"label": "CITY", "pattern": [{"LOWER": "memphis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "godhra"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ocean springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "martinsburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cocoa-rockledge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wellfleet"}]}
+{"label": "CITY", "pattern": [{"LOWER": "claremore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "patan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "owatonna"}]}
+{"label": "CITY", "pattern": [{"LOWER": "valparaiso"}]}
+{"label": "CITY", "pattern": [{"LOWER": "junction city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "joplin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "roselle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nadiad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "douglas"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lake geneva"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cranston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "webster"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pipestone"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fullerton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cooch behar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gallipolis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elkton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beckley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pilibhit"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jhansi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eagle pass"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gaya"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alexander city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "peoria"}]}
+{"label": "CITY", "pattern": [{"LOWER": "murray"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coney island"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mussoorie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bellefontaine"}]}
+{"label": "CITY", "pattern": [{"LOWER": "scranton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east moline"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eastport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cody"}]}
+{"label": "CITY", "pattern": [{"LOWER": "niles"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kadapa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chelmsford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lamar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lake havasu city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "panipat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "south bend"}]}
+{"label": "CITY", "pattern": [{"LOWER": "halisahar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "datia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "khargone"}]}
+{"label": "CITY", "pattern": [{"LOWER": "taos"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wewoka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sag harbor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "minneapolis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oregon city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lunglei"}]}
+{"label": "CITY", "pattern": [{"LOWER": "srikakulam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "peabody"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elizabethton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anchorage"}]}
+{"label": "CITY", "pattern": [{"LOWER": "karimnagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "glenview"}]}
+{"label": "CITY", "pattern": [{"LOWER": "silverton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clinton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rock island"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bozeman"}]}
+{"label": "CITY", "pattern": [{"LOWER": "delray beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new windsor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "diamond harbour"}]}
+{"label": "CITY", "pattern": [{"LOWER": "logan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ogdensburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "salina"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new hope"}]}
+{"label": "CITY", "pattern": [{"LOWER": "norris"}]}
+{"label": "CITY", "pattern": [{"LOWER": "imphal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "parsippany\u2013troy hills"}]}
+{"label": "CITY", "pattern": [{"LOWER": "trinidad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dhamtari"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lake placid"}]}
+{"label": "CITY", "pattern": [{"LOWER": "englewood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bridgeton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "frederick"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grand rapids"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cohoes"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harlan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "una"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eveleth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ujjain"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mankato"}]}
+{"label": "CITY", "pattern": [{"LOWER": "glendale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cuyahoga falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "carlinville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vicksburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kumbakonam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "galena"}]}
+{"label": "CITY", "pattern": [{"LOWER": "faridabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cleburne"}]}
+{"label": "CITY", "pattern": [{"LOWER": "doda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "purnia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "climax"}]}
+{"label": "CITY", "pattern": [{"LOWER": "northfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "banda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "navsari"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wilkes-barre"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sehore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "azamgarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "albuquerque"}]}
+{"label": "CITY", "pattern": [{"LOWER": "haverhill"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beaufort"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tezpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coronado"}]}
+{"label": "CITY", "pattern": [{"LOWER": "colorado springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mineola"}]}
+{"label": "CITY", "pattern": [{"LOWER": "renton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new rochelle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "deerfield beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sonipat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "carmel"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort dodge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oberlin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cheektowaga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "miles city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rajapalayam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barbourville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hialeah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "glen ellyn"}]}
+{"label": "CITY", "pattern": [{"LOWER": "adams"}]}
+{"label": "CITY", "pattern": [{"LOWER": "phulabani"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mount clemens"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saugus"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhusawal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "joliet"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waterville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "andover"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yemmiganur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "libertyville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rapid city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north kingstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "durgapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yanam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ithaca"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santipur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "des moines"}]}
+{"label": "CITY", "pattern": [{"LOWER": "edmond"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port angeles"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baramula"}]}
+{"label": "CITY", "pattern": [{"LOWER": "darlington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yakima"}]}
+{"label": "CITY", "pattern": [{"LOWER": "richmond"}]}
+{"label": "CITY", "pattern": [{"LOWER": "framingham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "berea"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lower southampton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "weatherford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kendujhar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lead"}]}
+{"label": "CITY", "pattern": [{"LOWER": "milbank"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ahmadabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "old saybrook"}]}
+{"label": "CITY", "pattern": [{"LOWER": "denver"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bossier city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kanchipuram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "montclair"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort lauderdale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "easton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shelby"}]}
+{"label": "CITY", "pattern": [{"LOWER": "estes park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "freeport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coffeyville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "normal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bay saint louis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ratnagiri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kanpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "forrest city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "patiala"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stratford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sheboygan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa ana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kangra"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yuma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kurnool"}]}
+{"label": "CITY", "pattern": [{"LOWER": "steamboat springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shiprock"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coral gables"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anderson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stockton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "parkersburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "crown point"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tullahoma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rogers"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mandan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ingraj bazar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "meriden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mentor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "opelika"}]}
+{"label": "CITY", "pattern": [{"LOWER": "price"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bountiful"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sierra vista"}]}
+{"label": "CITY", "pattern": [{"LOWER": "silver city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "honolulu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "conneaut"}]}
+{"label": "CITY", "pattern": [{"LOWER": "windsor locks"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dennis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "corydon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lovington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "midnapore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thibodaux"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nagpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "northampton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jersey city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wood river"}]}
+{"label": "CITY", "pattern": [{"LOWER": "olean"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harrisburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chikkamagaluru"}]}
+{"label": "CITY", "pattern": [{"LOWER": "orangeburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "park forest"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jalaun"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new market"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dedham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "edgartown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "woods hole"}]}
+{"label": "CITY", "pattern": [{"LOWER": "parbhani"}]}
+{"label": "CITY", "pattern": [{"LOWER": "arthur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "merced"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greenwood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lockport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nabha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "totowa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grand haven"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cleveland heights"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bellingham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "petoskey"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fargo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "las vegas"}]}
+{"label": "CITY", "pattern": [{"LOWER": "batesville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sitamarhi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "woodward"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harrison"}]}
+{"label": "CITY", "pattern": [{"LOWER": "virginia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "durham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new paltz"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint george"}]}
+{"label": "CITY", "pattern": [{"LOWER": "warangal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "manhattan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "leavenworth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chhindwara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new glarus"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ten sleep"}]}
+{"label": "CITY", "pattern": [{"LOWER": "weston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "silchar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east aurora"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bellows falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "maysville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wenatchee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vandalia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ocean city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barauni"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port arthur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "milford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa fe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "galesburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "duxbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oakland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winnetka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "williamson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "batavia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "urbana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beawar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "moundsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "corona"}]}
+{"label": "CITY", "pattern": [{"LOWER": "globe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winchester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint augustine"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sault sainte marie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ludhiana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east greenwich"}]}
+{"label": "CITY", "pattern": [{"LOWER": "visakhapatnam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "silver spring"}]}
+{"label": "CITY", "pattern": [{"LOWER": "braintree"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hastings"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alameda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tamaqua"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bithur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oroville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mount vernon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bharatpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amherst"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mahbubnagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "williamsport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sparks"}]}
+{"label": "CITY", "pattern": [{"LOWER": "duluth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wheaton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "summersville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "madhubani"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newburyport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "holyoke"}]}
+{"label": "CITY", "pattern": [{"LOWER": "madikeri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "farrukhabad-cum-fatehgarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "porbandar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tuskegee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "westfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "flushing"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kullu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "central falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waco"}]}
+{"label": "CITY", "pattern": [{"LOWER": "menasha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "costa mesa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newport news"}]}
+{"label": "CITY", "pattern": [{"LOWER": "machias"}]}
+{"label": "CITY", "pattern": [{"LOWER": "charlevoix"}]}
+{"label": "CITY", "pattern": [{"LOWER": "leominster"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san bernardino"}]}
+{"label": "CITY", "pattern": [{"LOWER": "panguitch"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gatlinburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort scott"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hershey"}]}
+{"label": "CITY", "pattern": [{"LOWER": "torrance"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alcoa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north hempstead"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jalpaiguri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palashi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dewas"}]}
+{"label": "CITY", "pattern": [{"LOWER": "south orange village"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chanute"}]}
+{"label": "CITY", "pattern": [{"LOWER": "euclid"}]}
+{"label": "CITY", "pattern": [{"LOWER": "huntington beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chicago"}]}
+{"label": "CITY", "pattern": [{"LOWER": "littleton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waimea"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rockford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "muscatine"}]}
+{"label": "CITY", "pattern": [{"LOWER": "perry"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rawlins"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new delhi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa barbara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yuba city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ouray"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east cleveland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ysleta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "white plains"}]}
+{"label": "CITY", "pattern": [{"LOWER": "worthington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "varanasi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pune"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kaneohe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "del rio"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thoothukudi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mobile"}]}
+{"label": "CITY", "pattern": [{"LOWER": "roseburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lake wales"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gulmarg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new smyrna beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pusa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bridgeport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cohasset"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhadravati"}]}
+{"label": "CITY", "pattern": [{"LOWER": "leh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new britain"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dwarka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shimla"}]}
+{"label": "CITY", "pattern": [{"LOWER": "halifax"}]}
+{"label": "CITY", "pattern": [{"LOWER": "allentown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brunswick"}]}
+{"label": "CITY", "pattern": [{"LOWER": "high point"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bradenton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hansi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vidisha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "neosho"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint joseph"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kollam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dixon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newberg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nappanee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oak ridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lakehurst"}]}
+{"label": "CITY", "pattern": [{"LOWER": "genoa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west seneca"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clarksburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "valdez"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wahpeton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shajapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eureka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bulandshahr"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cape may"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lawrence"}]}
+{"label": "CITY", "pattern": [{"LOWER": "muzaffarnagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kalaburagi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "madgaon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "reston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bend"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lock haven"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kamarhati"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kettering"}]}
+{"label": "CITY", "pattern": [{"LOWER": "odessa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lalitpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kalyan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greeley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "highland park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jammu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "martinez"}]}
+{"label": "CITY", "pattern": [{"LOWER": "giridih"}]}
+{"label": "CITY", "pattern": [{"LOWER": "marshall"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhilwara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "belfast"}]}
+{"label": "CITY", "pattern": [{"LOWER": "burbank"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jind"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mason city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "petaluma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winsted"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newport beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "narsimhapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhavnagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "south kingstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gaffney"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stonington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhopal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stoughton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "south charleston"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lansing"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wausau"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dispur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barre"}]}
+{"label": "CITY", "pattern": [{"LOWER": "atlantic city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "flagstaff"}]}
+{"label": "CITY", "pattern": [{"LOWER": "murwara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ozark"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barrington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bengaluru"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palmyra"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san francisco"}]}
+{"label": "CITY", "pattern": [{"LOWER": "windsor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nashua"}]}
+{"label": "CITY", "pattern": [{"LOWER": "manti"}]}
+{"label": "CITY", "pattern": [{"LOWER": "corning"}]}
+{"label": "CITY", "pattern": [{"LOWER": "toledo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mamallapuram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "orchha"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ambikapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "malden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cortland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "milton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "virginia beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "goldsboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "manassas"}]}
+{"label": "CITY", "pattern": [{"LOWER": "weehawken"}]}
+{"label": "CITY", "pattern": [{"LOWER": "indianola"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mckeesport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nabadwip"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ypsilanti"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kurukshetra"}]}
+{"label": "CITY", "pattern": [{"LOWER": "blytheville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coeur d\u2019alene"}]}
+{"label": "CITY", "pattern": [{"LOWER": "belmont"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hamilton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "de smet"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kolkata"}]}
+{"label": "CITY", "pattern": [{"LOWER": "torrington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "payson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dibrugarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "manchester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wethersfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "white sulphur springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sivasagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cooperstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east saint louis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tonawanda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chengalpattu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "acoma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "olympia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "malibu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cuttack"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sunnyvale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "moab"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tupelo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pittsburgh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "phenix city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "green river"}]}
+{"label": "CITY", "pattern": [{"LOWER": "palmdale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cahokia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "farmington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "morgantown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "arcadia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shelbyville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "woburn"}]}
+{"label": "CITY", "pattern": [{"LOWER": "samastipur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chitradurga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elkhart"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rae bareli"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint martinville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "henderson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "muzaffarpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "union city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mandla"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dallas"}]}
+{"label": "CITY", "pattern": [{"LOWER": "racine"}]}
+{"label": "CITY", "pattern": [{"LOWER": "benton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "everett"}]}
+{"label": "CITY", "pattern": [{"LOWER": "paris"}]}
+{"label": "CITY", "pattern": [{"LOWER": "norton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cheboygan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "exeter"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brigham city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new braunfels"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sitka"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cherrapunji"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mackinaw city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jalor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "adrian"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pudukkottai"}]}
+{"label": "CITY", "pattern": [{"LOWER": "abu"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort myers"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ranchi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kapurthala"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port lavaca"}]}
+{"label": "CITY", "pattern": [{"LOWER": "valsad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ghaziabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kaskaskia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "deoghar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sheffield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "southampton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "udaipur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shivamogga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "skagway"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boys town"}]}
+{"label": "CITY", "pattern": [{"LOWER": "youngstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kitty hawk"}]}
+{"label": "CITY", "pattern": [{"LOWER": "charlotte"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eau claire"}]}
+{"label": "CITY", "pattern": [{"LOWER": "balangir"}]}
+{"label": "CITY", "pattern": [{"LOWER": "calumet city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bihar sharif"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kent"}]}
+{"label": "CITY", "pattern": [{"LOWER": "walla walla"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thrissur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hazleton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stamford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bessemer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "streator"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amaravati"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mathura"}]}
+{"label": "CITY", "pattern": [{"LOWER": "calais"}]}
+{"label": "CITY", "pattern": [{"LOWER": "indio"}]}
+{"label": "CITY", "pattern": [{"LOWER": "aurora"}]}
+{"label": "CITY", "pattern": [{"LOWER": "waukegan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fairhaven"}]}
+{"label": "CITY", "pattern": [{"LOWER": "purulia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lynchburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "basirhat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "estherville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new london"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saint petersburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rajgarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "los angeles"}]}
+{"label": "CITY", "pattern": [{"LOWER": "spanish fork"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nampa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mitchell"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beaverton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hinton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "plainfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "napa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pehowa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bardstown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chhatarpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elk city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hingham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "herrin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "belvidere"}]}
+{"label": "CITY", "pattern": [{"LOWER": "srinagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "irvington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "peterborough"}]}
+{"label": "CITY", "pattern": [{"LOWER": "webster city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "south holland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "belle glade"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clayton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "narwar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "springfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "belle fourche"}]}
+{"label": "CITY", "pattern": [{"LOWER": "excelsior springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san rafael"}]}
+{"label": "CITY", "pattern": [{"LOWER": "surendranagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "goldfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "college park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chesapeake"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nacogdoches"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cairo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hope"}]}
+{"label": "CITY", "pattern": [{"LOWER": "woonsocket"}]}
+{"label": "CITY", "pattern": [{"LOWER": "aberdeen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stockbridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bokaro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa clara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rotterdam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "coulee dam"}]}
+{"label": "CITY", "pattern": [{"LOWER": "miami"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mesa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pacific grove"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mandi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "calistoga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "panaji"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thalassery"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mckinney"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ayodhya"}]}
+{"label": "CITY", "pattern": [{"LOWER": "buena park"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bainbridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "guthrie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "warm springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eluru"}]}
+{"label": "CITY", "pattern": [{"LOWER": "haridwar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mangaluru"}]}
+{"label": "CITY", "pattern": [{"LOWER": "erie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sandwich"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barberton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "portales"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saharanpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oregon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "weirton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pharr"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gary"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sikar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "berlin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "portsmouth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "american fork"}]}
+{"label": "CITY", "pattern": [{"LOWER": "albany"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort walton beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wallingford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shawnee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pascagoula"}]}
+{"label": "CITY", "pattern": [{"LOWER": "millburn"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elwood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san clemente"}]}
+{"label": "CITY", "pattern": [{"LOWER": "woodbridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elkins"}]}
+{"label": "CITY", "pattern": [{"LOWER": "piqua"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sturbridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "emporia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "corpus christi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eufaula"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newcastle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vellore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "atlanta"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harrodsburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "itarsi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lynn"}]}
+{"label": "CITY", "pattern": [{"LOWER": "narsinghgarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nags head"}]}
+{"label": "CITY", "pattern": [{"LOWER": "harmony"}]}
+{"label": "CITY", "pattern": [{"LOWER": "milan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "surat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cape girardeau"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clarksdale"}]}
+{"label": "CITY", "pattern": [{"LOWER": "phalodi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "big spring"}]}
+{"label": "CITY", "pattern": [{"LOWER": "concord"}]}
+{"label": "CITY", "pattern": [{"LOWER": "camden"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kargil"}]}
+{"label": "CITY", "pattern": [{"LOWER": "narragansett"}]}
+{"label": "CITY", "pattern": [{"LOWER": "paterson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west bend"}]}
+{"label": "CITY", "pattern": [{"LOWER": "zion"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ellensburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fort morgan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "panna"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kakinada"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bethlehem"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kharagpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hugli"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cedar rapids"}]}
+{"label": "CITY", "pattern": [{"LOWER": "plattsburgh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hillsborough"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mattoon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "satara"}]}
+{"label": "CITY", "pattern": [{"LOWER": "franklin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ganganagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "killeen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pawtucket"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tahlequah"}]}
+{"label": "CITY", "pattern": [{"LOWER": "plymouth"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hudson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "holland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jodhpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "aligarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "buckhannon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bar harbor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sasaram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "springville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kansas city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hot springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "central city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "martinsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "athol"}]}
+{"label": "CITY", "pattern": [{"LOWER": "breckenridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "elmhurst"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pauls valley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "monroeville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "arkansas city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "casa grande"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bidar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gorakhpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "moline"}]}
+{"label": "CITY", "pattern": [{"LOWER": "worcester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vinita"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shahdol"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baltimore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "welch"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hoshangabad"}]}
+{"label": "CITY", "pattern": [{"LOWER": "udayagiri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sacramento"}]}
+{"label": "CITY", "pattern": [{"LOWER": "victoria"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new harmony"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa clarita"}]}
+{"label": "CITY", "pattern": [{"LOWER": "norman"}]}
+{"label": "CITY", "pattern": [{"LOWER": "panama city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jorhat"}]}
+{"label": "CITY", "pattern": [{"LOWER": "erode"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winslow"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brownsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "millville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "newton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dayton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new iberia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "guymon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "muskogee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "beverly hills"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saratoga springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fatehpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "benton harbor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "connersville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "austin"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sturgis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "jaunpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "warrensburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nebraska city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chaibasa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bhind"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bennington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "demopolis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ojai"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ann arbor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "natchez"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pampa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cripple creek"}]}
+{"label": "CITY", "pattern": [{"LOWER": "altus"}]}
+{"label": "CITY", "pattern": [{"LOWER": "redondo beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "redwood city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "la salle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hammondsport"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wichita falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "massena"}]}
+{"label": "CITY", "pattern": [{"LOWER": "louisville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boulder city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san jose"}]}
+{"label": "CITY", "pattern": [{"LOWER": "maheshwar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "faribault"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mcpherson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clovis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "minot"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ansonia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ocala"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kalispell"}]}
+{"label": "CITY", "pattern": [{"LOWER": "winnemucca"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ottumwa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "phoenix"}]}
+{"label": "CITY", "pattern": [{"LOWER": "arcot"}]}
+{"label": "CITY", "pattern": [{"LOWER": "budaun"}]}
+{"label": "CITY", "pattern": [{"LOWER": "southington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "flint"}]}
+{"label": "CITY", "pattern": [{"LOWER": "el paso"}]}
+{"label": "CITY", "pattern": [{"LOWER": "georgetown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hood river"}]}
+{"label": "CITY", "pattern": [{"LOWER": "findlay"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fresno"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hartford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hanumangarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "florissant"}]}
+{"label": "CITY", "pattern": [{"LOWER": "seattle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "baraboo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "norfolk"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fulton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "karaikal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dunkirk"}]}
+{"label": "CITY", "pattern": [{"LOWER": "astoria"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nashville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cumberland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fairmont"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west chester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "aliquippa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san angelo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "malegaon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clearfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thanjavur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tiruchchirappalli"}]}
+{"label": "CITY", "pattern": [{"LOWER": "montpelier"}]}
+{"label": "CITY", "pattern": [{"LOWER": "white springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greenbelt"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shillong"}]}
+{"label": "CITY", "pattern": [{"LOWER": "davis"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kolhapur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hattiesburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "orlando"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bryan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "duncan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dillon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greeneville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "norwalk"}]}
+{"label": "CITY", "pattern": [{"LOWER": "guilford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kodiak"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tiverton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "stevens point"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lander"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sambhal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "siliguri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ferguson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "idukki"}]}
+{"label": "CITY", "pattern": [{"LOWER": "eastpointe"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rohtak"}]}
+{"label": "CITY", "pattern": [{"LOWER": "smith center"}]}
+{"label": "CITY", "pattern": [{"LOWER": "yavatmal"}]}
+{"label": "CITY", "pattern": [{"LOWER": "portland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "firozpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kalamazoo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bankura"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bedford"}]}
+{"label": "CITY", "pattern": [{"LOWER": "orem"}]}
+{"label": "CITY", "pattern": [{"LOWER": "poughkeepsie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pullman"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kannauj"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nephi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kanab"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ilion"}]}
+{"label": "CITY", "pattern": [{"LOWER": "seward"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nogales"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hanover"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tonk"}]}
+{"label": "CITY", "pattern": [{"LOWER": "effingham"}]}
+{"label": "CITY", "pattern": [{"LOWER": "romney"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west des moines"}]}
+{"label": "CITY", "pattern": [{"LOWER": "haddonfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "naples"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wellesley"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lafayette"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hallandale beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fairfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "spring green"}]}
+{"label": "CITY", "pattern": [{"LOWER": "downey"}]}
+{"label": "CITY", "pattern": [{"LOWER": "idaho city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "thiruvananthapuram"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kishangarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north haven"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fernandina beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alwar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "brattleboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rock springs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new castle"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hisar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pueblo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "charles city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "durant"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bundi"}]}
+{"label": "CITY", "pattern": [{"LOWER": "pryor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "truth or consequences"}]}
+{"label": "CITY", "pattern": [{"LOWER": "la habra"}]}
+{"label": "CITY", "pattern": [{"LOWER": "laredo"}]}
+{"label": "CITY", "pattern": [{"LOWER": "marysville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mcallen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chandigarh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kellogg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "saharsa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ambridge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "little falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mundelein"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chapel hill"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ashtabula"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nagercoil"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bremerton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "anaconda"}]}
+{"label": "CITY", "pattern": [{"LOWER": "goshen"}]}
+{"label": "CITY", "pattern": [{"LOWER": "chandragiri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lebanon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "williamsburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "nahan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "custer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "garden grove"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fitchburg"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tiruppur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ludlow"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san antonio"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bristol"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sidney"}]}
+{"label": "CITY", "pattern": [{"LOWER": "herkimer"}]}
+{"label": "CITY", "pattern": [{"LOWER": "reading"}]}
+{"label": "CITY", "pattern": [{"LOWER": "budge budge"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kandla"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mysuru"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tehri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kannur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new kensington"}]}
+{"label": "CITY", "pattern": [{"LOWER": "claremont"}]}
+{"label": "CITY", "pattern": [{"LOWER": "burdwan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "johnson city"}]}
+{"label": "CITY", "pattern": [{"LOWER": "warwick"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hancock"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hutchinson"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east lansing"}]}
+{"label": "CITY", "pattern": [{"LOWER": "princeton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "greenfield"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sainte genevieve"}]}
+{"label": "CITY", "pattern": [{"LOWER": "oshkosh"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gandhinagar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "kennewick"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ormond beach"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hobbs"}]}
+{"label": "CITY", "pattern": [{"LOWER": "crawfordsville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "cullman"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mattancheri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "west lafayette"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vijayapura"}]}
+{"label": "CITY", "pattern": [{"LOWER": "koraput"}]}
+{"label": "CITY", "pattern": [{"LOWER": "houma"}]}
+{"label": "CITY", "pattern": [{"LOWER": "skokie"}]}
+{"label": "CITY", "pattern": [{"LOWER": "gardiner"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tripura"}]}
+{"label": "CITY", "pattern": [{"LOWER": "bogalusa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "new bern"}]}
+{"label": "CITY", "pattern": [{"LOWER": "painesville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "grand island"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shahjahanpur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "vail"}]}
+{"label": "CITY", "pattern": [{"LOWER": "rochester"}]}
+{"label": "CITY", "pattern": [{"LOWER": "raton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "garland"}]}
+{"label": "CITY", "pattern": [{"LOWER": "paradip"}]}
+{"label": "CITY", "pattern": [{"LOWER": "badami"}]}
+{"label": "CITY", "pattern": [{"LOWER": "edenton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "hampton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "darbhanga"}]}
+{"label": "CITY", "pattern": [{"LOWER": "faridkot"}]}
+{"label": "CITY", "pattern": [{"LOWER": "wayne"}]}
+{"label": "CITY", "pattern": [{"LOWER": "john day"}]}
+{"label": "CITY", "pattern": [{"LOWER": "middletown"}]}
+{"label": "CITY", "pattern": [{"LOWER": "barnstable"}]}
+{"label": "CITY", "pattern": [{"LOWER": "riverton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ossining"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dehri"}]}
+{"label": "CITY", "pattern": [{"LOWER": "orono"}]}
+{"label": "CITY", "pattern": [{"LOWER": "livermore"}]}
+{"label": "CITY", "pattern": [{"LOWER": "alva"}]}
+{"label": "CITY", "pattern": [{"LOWER": "dothan"}]}
+{"label": "CITY", "pattern": [{"LOWER": "tumakuru"}]}
+{"label": "CITY", "pattern": [{"LOWER": "shrirampur"}]}
+{"label": "CITY", "pattern": [{"LOWER": "houghton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "agra"}]}
+{"label": "CITY", "pattern": [{"LOWER": "indiana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "milwaukee"}]}
+{"label": "CITY", "pattern": [{"LOWER": "lakeview"}]}
+{"label": "CITY", "pattern": [{"LOWER": "san marino"}]}
+{"label": "CITY", "pattern": [{"LOWER": "norwood"}]}
+{"label": "CITY", "pattern": [{"LOWER": "danbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "livonia"}]}
+{"label": "CITY", "pattern": [{"LOWER": "port hueneme"}]}
+{"label": "CITY", "pattern": [{"LOWER": "seymour"}]}
+{"label": "CITY", "pattern": [{"LOWER": "muskegon"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mccook"}]}
+{"label": "CITY", "pattern": [{"LOWER": "clanton"}]}
+{"label": "CITY", "pattern": [{"LOWER": "niagara falls"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mahesana"}]}
+{"label": "CITY", "pattern": [{"LOWER": "roseville"}]}
+{"label": "CITY", "pattern": [{"LOWER": "columbus"}]}
+{"label": "CITY", "pattern": [{"LOWER": "boothbay harbor"}]}
+{"label": "CITY", "pattern": [{"LOWER": "fall river"}]}
+{"label": "CITY", "pattern": [{"LOWER": "santa rosa"}]}
+{"label": "CITY", "pattern": [{"LOWER": "amravati"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east orange"}]}
+{"label": "CITY", "pattern": [{"LOWER": "essex"}]}
+{"label": "CITY", "pattern": [{"LOWER": "sunbury"}]}
+{"label": "CITY", "pattern": [{"LOWER": "owensboro"}]}
+{"label": "CITY", "pattern": [{"LOWER": "mahabaleshwar"}]}
+{"label": "CITY", "pattern": [{"LOWER": "north platte"}]}
+{"label": "CITY", "pattern": [{"LOWER": "east chicago"}]}
+{"label": "CITY", "pattern": [{"LOWER": "ahmedabad"}]}

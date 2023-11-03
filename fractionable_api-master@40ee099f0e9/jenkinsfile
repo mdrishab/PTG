@@ -1,0 +1,20 @@
+pipeline {
+    agent any
+    stages {
+        stage ('Build') {
+            steps{
+                sh 'printenv'
+            }
+        }
+        stage ('Publish ECR') {
+            steps {
+               withCredentials ([[$class: 'AmazonWebServicesCredentialsBinding',credentialsId: '652666154300', accessKeyVariable: 'AWS_ACCESS_KEY_ID', secretKeyVariable: 'AWS_SECRET_ACCESS_KEY']]) {
+                   sh 'docker login -u AWS -p $(aws ecr get-login-password --region ap-south-1) 652666154300.dkr.ecr.ap-south-1.amazonaws.com'
+                   sh 'docker build -t jenkins_demo .'
+                   sh 'docker tag jenkins_demo:latest 652666154300.dkr.ecr.ap-south-1.amazonaws.com/jenkins_demo:""$BUILD_ID""'
+                   sh 'docker push 652666154300.dkr.ecr.ap-south-1.amazonaws.com/jenkins_demo:""$BUILD_ID""'
+               }
+            }
+        }
+    }
+}
